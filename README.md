@@ -24,13 +24,13 @@ HTML and CSS only. For production enviornments, you can use something like <a hr
 Clone the project
 
 ```bash
-git clone...
+git clone https://github.com/Lesley-Z-Studios/Lady-Lockout.git
 ```
 
 Go to the project directory
 
 ```bash
-cd ...
+cd Lesley-Z-Studios/Lady-Lockout
 ```
 
 That's it! Edit it and host it however you choose. <br>
