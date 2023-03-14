@@ -1,0 +1,100 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background-image: url(assets/pink-tile.png);
+  background-size: cover;
+  color: black;
+  padding: 20px;
+  font-family: "Noto Sans", sans-serif;
+  font-size: 16px;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+h1, h2, h3 {
+  text-align: center;
+  font-family: Oswald, sans-serif
+}
+
+h1 {
+  font-size: 40px
+}
+
+hr {
+  height: 2px;
+  background-color: navy;
+  border-color: white;
+}
+
+h2 {
+  font-size: 30px;
+  color: navy;
+}
+
+main {
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #fff;
+  padding: 15px;
+  max-width: 500px;
+  border-radius: 2%;
+  border: 2px dashed navy;
+  box-shadow: 3px 3px 3px #4f5964;
+}
+
+p {
+  text-align: center;
+  font-size: 22px;
+}
+
+.stars {
+  text-align: center;
+}
+
+h3 {
+  color: navy;
+  font-size: 25px;
+}
+
+.facebook {
+  background: #3B5998;
+  color: white;
+  padding: 10px;
+  font-size: 20px;
+  border-radius: 5%;
+}
+
+.checked {
+  color: orange;
+}
+
+input {
+  width: 75%;
+  font-size: 18px;
+}
+
+button {
+  padding: 15px;
+  background-color: navy;
+  color: deeppink;
+  border-color: navy;
+  border-radius: 4%;
+  font-size: 18px;
+  cursor: pointer;
+  box-shadow: 3px 3px 3px gray;
+}
+
+button:hover {
+  background-color: blue;
+  border-color: blue; 
+}
+
+footer {
+  text-align: center;
+  color: navy;
+  font-size: 14px;
+}
